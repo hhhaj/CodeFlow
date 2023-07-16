@@ -11,7 +11,7 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/hhhaj/CodeFlow/releases).
+1. Download the latest release from the [Releases page](https://github.com/hhhaj/Jupyter-Control/releases).
 2. Install the add-on in Blender (`Edit > Preferences > Add-ons`).
 3. Enable the Jupyter Control add-on.
 
