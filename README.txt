@@ -1,4 +1,4 @@
-# Jupyter Control for Blender
+**Jupyter Control for Blender**
 
 **Jupyter Control** is a Blender add-on that brings the power of Jupyter-like cell execution to the Blender Text Editor. It allows you to create and run individual cells of Python code, enhancing your script development and debugging experience.
 
