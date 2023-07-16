@@ -25,6 +25,10 @@ In the Text Editor:
 
 Successful cell execution is marked with a `# CELL SUCCESS` comment.
 
+[Blender Text Editor #1](https://github.com/hhhaj/Jupyter-Control/issues/1)
+
+
+
 ## Contributing
 
 Contributions are welcome! Submit a pull request or create an issue.
