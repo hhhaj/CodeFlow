@@ -27,7 +27,7 @@ Successful cell execution is marked with a `# CELL SUCCESS` comment.
 
 [Blender Text Editor](https://github.com/hhhaj/Jupyter-Control/issues/1)
 
-
+![CodeFlow](https://github.com/hhhaj/CodeFlow/assets/28511806/f52f7ac7-8be4-4d3b-bc78-431d3d739491)
 
 ## Contributing
 
