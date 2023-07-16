@@ -1,36 +1,31 @@
-# Jupyter Control for Blender
+Jupyter Control for Blender
 
-Jupyter Control is a Blender add-on that brings the power of Jupyter-like cell execution to the Blender Text Editor. It allows you to create and run "cells" of Python code individually, making it easier to develop and debug your scripts.
+Jupyter Control is a Blender add-on that brings the power of Jupyter-like cell execution to the Blender Text Editor. It allows you to create and run individual cells of Python code, enhancing your script development and debugging experience.
+Features
 
+    Add new cells of code with a single click
+    Run individual cells and see immediate results
+    Run all cells after the current cell
+    Get feedback on successful cell execution
 
-## Features
+Installation
 
-- Add new cells of code with a single click
-- Run individual cells and see the results immediately
-- Run all cells after the current cell
-- Get feedback on successful cell execution
+    Download the latest release from the Releases page.
+    Install the add-on in Blender (Edit > Preferences > Add-ons).
+    Enable the Jupyter Control add-on.
 
-## Installation
+Usage
 
-1. Download the latest release from the [Releases page](https://github.com/hhhaj/jupyter-control/releases).
-2. Open Blender and go to `Edit > Preferences > Add-ons`.
-3. Click `Install...` and select the downloaded file.
-4. Enable the Jupyter Control add-on.
+In the Text Editor:
 
-## Usage
+    Click the ➕ button to add a new cell.
+    Click the ▶️ button to run the current cell.
+    Click the ⏭️ button to run all cells after the current cell.
 
-After installing the add-on, you can access its features in the Text Editor:
+Successful cell execution is marked with a # CELL SUCCESS comment.
+Contributing
 
-- To add a new cell, click the ➕ button, its not necessary.
-- To run the current cell, click the ▶️ button.
-- To run all cells after the current cell, click the ⏭️ button.
+Contributions are welcome! Submit a pull request or create an issue.
+License
 
-When a cell is run successfully, a `# CELL SUCCESS` comment is temporarily added at the end of the cell.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or create an issue.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). 
+This project is licensed under the MIT License.
