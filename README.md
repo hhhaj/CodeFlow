@@ -19,7 +19,7 @@
 
 In the Text Editor:
 
-- Click the ➕ button to add a new cell.
+- Click the ➕ button to add a new cell (not necessary).
 - Click the ▶️ button to run the current cell.
 - Click the ⏭️ button to run all cells after the current cell.
 
