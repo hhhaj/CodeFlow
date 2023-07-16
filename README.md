@@ -1,6 +1,6 @@
-## <span style="font-size:larger;">Jupyter Control for Blender</span>
+## <span style="font-size:larger;">CodeFlow for Blender</span>
 
-**Jupyter Control** is a Blender add-on that brings the power of Jupyter-like cell execution to the Blender Text Editor. It allows you to create and run individual cells of Python code, enhancing your script development and debugging experience.
+**CodeFlow** is a Blender add-on that brings the power of Jupyter-like cell execution to the Blender Text Editor. It allows you to create and run individual cells of Python code, enhancing your script development and debugging experience.
 
 ## Features
 
@@ -11,7 +11,7 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/hhhaj/jupyter-control/releases).
+1. Download the latest release from the [Releases page](https://github.com/hhhaj/CodeFlow/releases).
 2. Install the add-on in Blender (`Edit > Preferences > Add-ons`).
 3. Enable the Jupyter Control add-on.
 
