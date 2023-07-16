@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Jupyter Control",
+    "name": "CodeFlow",
     "author": "Hazzaa Alhajri",
     "version": (1, 0),
     "blender": (3, 4, 1),
